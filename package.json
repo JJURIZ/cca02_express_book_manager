@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/JJURIZ/cca02_express_book_manager#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.3"
   }
 }
